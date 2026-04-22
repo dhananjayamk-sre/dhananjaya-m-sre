@@ -43,5 +43,5 @@ Kubernetes GPU, NVIDIA, PyTorch
 
 ## 📫 Connect
 
-* LinkedIn: https://linkedin.com/in/YOUR-LINK
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: https://www.linkedin.com/in/dhananjaya-mk-sre/
+* Email: dhananjayamk@gmail.com
