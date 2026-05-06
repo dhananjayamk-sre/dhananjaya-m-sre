@@ -1,47 +1,15 @@
-# Hi, I'm Dhananjay M 👋
+# Hey, I'm Dhananjay 👋
 
-**Building and breaking things in cloud & infrastructure 🚀**
+☁️ Building and exploring cloud, networking & automation stuff
+🚀 Breaking things, fixing things and learning daily
+🌍 Tech, curiosity and a little bit of chaos
 
----
+### ⚡ Currently Playing With
 
-## 🚀 About Me
+* OpenStack
+* Kubernetes
+* Linux & Networking
+* AI + Infra experiments
+* Automation scripts & homelab fun
 
-* 10+ years in SRE / Infrastructure / Networking
-* Kubernetes, Cloud Platforms, AI Infra specialist
-* Focused on reliability, scalability, and automation
-* Open to Remote Roles (US / EU overlap)
-
----
-
-## 🛠️ Tech Stack
-
-**Cloud & Infra**
-AWS, Azure, Terraform
-
-**Containers & Orchestration**
-Kubernetes, Helm, Ingress, Istio
-
-**Observability**
-Prometheus, Grafana, Loki, ELK
-
-**CI/CD**
-GitHub Actions, GitLab CI, Docker
-
-**AI / GPU Infra**
-Kubernetes GPU, NVIDIA, PyTorch
-
----
-
-## 📂 Focus Areas
-
-* SLO / SLI driven reliability
-* Scalable infrastructure design
-* Automation & cost optimization
-* Production observability
-
----
-
-## 📫 Connect
-
-* LinkedIn: https://www.linkedin.com/in/dhananjaya-mk-sre/
-* Email: dhananjayamk@gmail.com
+✨ Always building something new
